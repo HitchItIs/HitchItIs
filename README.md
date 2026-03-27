@@ -2,7 +2,7 @@
 
 ### From the kitchen to the codebase. 
 
-I’m a **Junior Python Developer (Trainee)** currently retraining at GFN. I bring a high-pressure work ethic from professional kitchens and sales to software engineering. I don't look for excuses; I look for solutions.
+I bring a high-pressure work ethic from professional kitchens and sales to software engineering. I don't look for excuses; I look for solutions.
 
 ---
 
@@ -19,8 +19,11 @@ I’m a **Junior Python Developer (Trainee)** currently retraining at GFN. I bri
 
 ---
 
-###  GitHub Stats
-![Can-Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=HitchItIs&show_icons=true&theme=transparent&hide_border=true)
+### GitHub Stats & Language Focus
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HitchItIs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HitchItIs&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" />
+</p>
 
 ---
 
