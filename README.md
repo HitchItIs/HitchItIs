@@ -19,12 +19,9 @@ I bring a high-pressure work ethic from professional kitchens and sales to softw
 
 ---
 
-### GitHub Stats & Language Focus
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HitchItIs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HitchItIs&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" />
-</p>
-
+### 🚀 Top Projects & Concepts
+* **[pwned_password-check](https://github.com/HitchItIs/pwned_password-check):** Implementation of k-anonymity principles for secure password verification.
+* **[subdomain-scanner](https://github.com/HitchItIs/SubDomain_checker.py):** Automation of DNS infrastructure analysis for network reconnaissance.
 ---
 
 ###  Let's Connect
