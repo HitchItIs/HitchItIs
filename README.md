@@ -26,6 +26,5 @@ I don't look for excuses; I look for solutions.
 
 ###  Let's Connect
 - **LinkedIn:** [can-luca-oelker](https://www.linkedin.com/in/can-luca-oelker-047a143b1/)
-- **Goal:** Seeking an internship where I can be productive, handle pressure, and solve real problems.
 
-*"In a kitchen, you don't explain why the plate is late; you make sure it never happens again. I code with that same mindset."*
+
