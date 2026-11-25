@@ -1,8 +1,8 @@
 # Hi, I'm Can  
 
-### From the kitchen to the codebase. 
+###  
 
-I bring a high-pressure work ethic from professional kitchens and sales to software engineering. I don't look for excuses; I look for solutions.
+I don't look for excuses; I look for solutions.
 
 ---
 
